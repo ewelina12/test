@@ -27,7 +27,7 @@ b, strong{
     height: 500px;
 }
 .intro-block{
-    background: url(../img/colors/shattered.jpg);
+    background: url(../img/colors/shattered.jpg) no-repeat;
     margin-top: -20px;
     padding: 80px 15px 50px;
     color: #fff;
@@ -85,11 +85,12 @@ b, strong{
     background-color: #c1e2b3;
 }
 .col-sm-6{
-    padding: 100px 40px 100px 40px;
+    padding: 10px 40px 60px 40px;
 }
 .col-lg-12{
     padding: 30px 20px;
 }
+
 
 .marketing{
     background-color: #000;
@@ -100,6 +101,7 @@ hr{
 .info{
     background: #fff url(../img/colors/skyline.png);
     background-size: 100% 100%;
+    padding: 40px;
 }
 .info small{
     padding: 10px 20px 10px 5px;
@@ -113,7 +115,7 @@ hr{
     color: #fff;
 }
 .info a:hover{
-    color: ghostwhite;
+    color: #000;
 }
 .tab-pane{
     padding: 25px 35px 15px 40px;
@@ -127,7 +129,7 @@ hr{
 
 .ftr{
 
-    padding: 50px 0 30px 0;
+    padding: 0 30px 0 30px;
 }
 .ftr address, .ftr a, .ftr p{
     color: #fff;
@@ -138,8 +140,7 @@ hr{
 }
 blockquote {
   padding: 40px 10px;
-  margin: 0 0 20px;
-  font-size: 18px;
+  font-size: 16px;
   border-left: 2px solid #fff;
 }
 
