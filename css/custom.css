@@ -90,8 +90,6 @@ b, strong{
 .col-lg-12{
     padding: 30px 20px;
 }
-
-
 .marketing{
     background-color: #000;
 }
@@ -126,7 +124,6 @@ hr{
     color: ghostwhite;
     padding: 25px 20px 5px 20px;
 }
-
 .ftr{
 
     padding: 0 30px 0 30px;
@@ -143,7 +140,15 @@ blockquote {
   font-size: 16px;
   border-left: 2px solid #fff;
 }
-
+.blog h2 a{
+    color: #c7254e;
+}
+.blog p a{
+    color: #000;
+}
+.sidebar{
+    background-color: #e9e6df;
+}
 
 
 
