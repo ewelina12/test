@@ -120,8 +120,8 @@ hr{
     color: ghostwhite;
     background: #245269;
 }
-.col-sm-4{
-    color: ghostwhite;
+.col-lg-4{
+    color:#000;
     padding: 25px 20px 5px 20px;
 }
 .ftr{
@@ -149,7 +149,9 @@ blockquote {
 .sidebar{
     background-color: #e9e6df;
 }
-
+.bpad{
+    margin-bottom: 30px;
+}
 
 
 
