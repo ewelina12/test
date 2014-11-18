@@ -125,12 +125,14 @@ hr{
     padding: 25px 20px 5px 20px;
 }
 .ftr{
-
+   
     padding: 0 30px 0 30px;
 }
 .ftr address, .ftr a, .ftr p{
-    color: #fff;
-    padding: 20px 8px 20px 8px;
+    font-size: 20px;
+    background-color: # #245269;
+    color: white;
+
 }
 .ft_space{
     padding: 30px;
@@ -152,7 +154,15 @@ blockquote {
 .bpad{
     margin-bottom: 30px;
 }
-
+.map{
+    height: 350px;
+    width: 100%;
+}
+@media(min-width: 768px){
+    .map{
+        height: 300px;
+    }
+}
 
 
 
