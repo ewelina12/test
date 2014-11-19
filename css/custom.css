@@ -125,22 +125,24 @@ hr{
     padding: 25px 20px 5px 20px;
 }
 .ftr{
-   
-    padding: 0 30px 0 30px;
+    background: url(../img/colors/purple.png) repeat;
+    padding: 80px 30px 60px 30px;
 }
 .ftr address, .ftr a, .ftr p{
     font-size: 20px;
-    background-color: # #245269;
     color: white;
-
+    padding: 0px 10px 10px 10px;
 }
 .ft_space{
     padding: 30px;
 }
 blockquote {
-  padding: 40px 10px;
-  font-size: 16px;
-  border-left: 2px solid #fff;
+    
+    color: black;
+    padding: 40px 10px;
+    weight: 15px;
+    font-size: 18px;
+    border-left: 2px solid #fff;
 }
 .blog h2 a{
     color: #c7254e;
